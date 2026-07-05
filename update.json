@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/代管系統安裝程式.exe",
+  "notes": [
+    "首次正式發布版本"
+  ],
+  "mandatory": false,
+  "sha256": "f34ec9d1a2533bfe794cde59932647b129cefca1fcbb1846b4ebfed46cc8d512"
+}
