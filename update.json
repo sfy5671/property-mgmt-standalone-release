@@ -1,11 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "全站介面資源改為本機載入，離線或公司網路擋外部連線時也能正常顯示",
-    "新增友善錯誤頁面（含資料安全提示與客服聯絡方式）",
-    "統一版本號顯示，修正登入頁版本標示"
+    "新增自動更新提示：偵測到新版本時，系統頂端會顯示可下載更新的提示橫幅",
+    "延續離線可用、友善錯誤頁與版本一致性改善"
   ],
   "mandatory": false,
-  "sha256": "f993dfd76972bbcf2a69e1863e4d9626fcfc25528a571aad246360515599c73f"
+  "sha256": "cb1bdf07923c9211973ed9e8717e46cfccadb2f2539af3cd5afb5a85b39d6017"
 }
