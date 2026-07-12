@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "新增自動更新提示：偵測到新版本時，系統頂端會顯示可下載更新的提示橫幅",
-    "延續離線可用、友善錯誤頁與版本一致性改善"
+    "新增 AI 智慧抄表：帳單結算頁按「📷 拍照抄表」，拍電表照片即可自動辨識用電度數並填入",
+    "可填入自己的 Gemini 金鑰於本機辨識，或沿用手機查詢雲端由原廠辨識"
   ],
   "mandatory": false,
-  "sha256": "cb1bdf07923c9211973ed9e8717e46cfccadb2f2539af3cd5afb5a85b39d6017"
+  "sha256": "aebf1231ab0272e9506098a5e3438e4410c36c2260795cc5d7b1ee2b1de97f15"
 }
