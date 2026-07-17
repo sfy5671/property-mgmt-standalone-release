@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "後台介面全面改版：改為左側導覽選單（側欄式），物件、房客、收租、催繳、修繕、報表一目了然，操作更直覺專業",
-    "頁面配色優化：標題色帶改為淺色系，長時間使用更不易視覺疲勞",
-    "新增側欄快速入口：收款對帳、客戶 CRM 直接從側欄進入"
+    "開通頁新增「線上刷卡買斷」入口：付款成功後系統自動核發授權碼並寄到你的 Email，免等原廠人工發碼",
+    "帳務與業績報表聚焦純代管（公司／代管／修繕），移除不相關的仲介、工程類別，畫面更清爽",
+    "側邊欄整理：移除多餘連結"
   ],
   "mandatory": false,
-  "sha256": "272b64254e7a155be129808bf6230d984b42d51390c1f9b4493c6f51566998bc"
+  "sha256": "8d8bcf4686801a612140bd4da0516fee262efb553742683c5150271685ecc744"
 }
