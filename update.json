@@ -1,11 +1,10 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "開通頁新增「線上刷卡買斷」入口：付款成功後系統自動核發授權碼並寄到你的 Email，免等原廠人工發碼",
-    "帳務與業績報表聚焦純代管（公司／代管／修繕），移除不相關的仲介、工程類別，畫面更清爽",
-    "側邊欄整理：移除多餘連結"
+    "開通頁「線上刷卡買斷」入口更新：付款成功後系統自動核發授權碼並寄到你的 Email",
+    "購買流程改由官方網站處理，更穩定安全"
   ],
   "mandatory": false,
-  "sha256": "8d8bcf4686801a612140bd4da0516fee262efb553742683c5150271685ecc744"
+  "sha256": "7e8cb2da861df13adfa9778564fe673ba6c03abcaac8043ff5345eecbcdf1b29"
 }
