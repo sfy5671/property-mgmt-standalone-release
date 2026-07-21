@@ -1,10 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "開通頁「線上刷卡買斷」入口更新：付款成功後系統自動核發授權碼並寄到你的 Email",
-    "購買流程改由官方網站處理，更穩定安全"
+    "屋主結算：房客退租的『應退金額』、新房客的『收取押金』會自動帶入屋主結算（含房號），不用再手動加、也不會漏",
+    "屋主結算防呆：該月有代收水電卻沒列入收入時，自動跳紅字提醒，避免少算應匯屋主",
+    "電費計算：度數×單價一律無條件進位（公電分攤與瓦斯維持原樣）"
   ],
   "mandatory": false,
-  "sha256": "7e8cb2da861df13adfa9778564fe673ba6c03abcaac8043ff5345eecbcdf1b29"
+  "sha256": "e23c4c55b3017dccebfecea700bf1a5460e9f62a33e1a5fb8368e5e72efd98fc"
 }
