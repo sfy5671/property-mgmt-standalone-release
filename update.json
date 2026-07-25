@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "維護性更新：移除內部測試殘留設定，提升全新安裝的穩定性",
-    "屋主結算：房客退租的『應退金額』、新房客的『收取押金』會自動帶入屋主結算（含房號），不用再手動加、也不會漏",
-    "屋主結算防呆：該月有代收水電卻沒列入收入時，自動跳紅字提醒，避免少算應匯屋主"
+    "修正：以自訂帳號開通的用戶，現在可正常使用全部功能（不再誤判權限不足）",
+    "試用版每頁頂端新增「立即購買升級」按鈕，可一鍵前往購買頁",
+    "移除不適用單機版的訂閱管理殘留頁面，介面更清爽"
   ],
   "mandatory": false,
-  "sha256": "f404f12126d069322af219292ba37923dcbc4790e46ba85823bb25505367fde5"
+  "sha256": "fc698a6e9e3493ff92495bdab0b878c3bcfc99cb3ead5079144df2c6311cda56"
 }
