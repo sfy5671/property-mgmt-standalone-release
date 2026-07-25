@@ -1,11 +1,10 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "修正：以自訂帳號開通的用戶，現在可正常使用全部功能（不再誤判權限不足）",
-    "試用版每頁頂端新增「立即購買升級」按鈕，可一鍵前往購買頁",
-    "移除不適用單機版的訂閱管理殘留頁面，介面更清爽"
+    "重要：登入頁與試用橫幅新增「已購買？輸入授權碼開通/升級」入口，購買買斷版後可直接升級",
+    "付款後開通引導更清楚（軟體與開通頁都在 App 內、非網頁）"
   ],
   "mandatory": false,
-  "sha256": "fc698a6e9e3493ff92495bdab0b878c3bcfc99cb3ead5079144df2c6311cda56"
+  "sha256": "28abb652ba2b94da1c0c8822e5bed7ac14db7ab7ef2e4bd5c01d94ccdc545925"
 }
