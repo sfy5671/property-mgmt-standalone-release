@@ -1,10 +1,11 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.14",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "使用說明新增「開通與升級正式版」教學（開通在軟體內非網頁、試用購買後如何升級）",
-    "登入頁與試用橫幅可直接「輸入授權碼開通/升級」"
+    "帳務三功能校正：電費無條件進位、退租押金自動帶入屋主結算、代收水電防呆",
+    "接上 CRM 藍圖、下載授權修正",
+    "清除純代管用不到的他業種殘留 schema"
   ],
   "mandatory": false,
-  "sha256": "081974f193cf36cfd472066b0b6e0a5e91a5373d1f002aaf8702d7d0c876343f"
+  "sha256": "597a79bb70bc364842bf32e78a8c3b771a72ee51fc4cea718894e1bec51a8e53"
 }
