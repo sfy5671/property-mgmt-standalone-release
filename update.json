@@ -1,11 +1,10 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "帳務三功能校正：電費無條件進位、退租押金自動帶入屋主結算、代收水電防呆",
-    "接上 CRM 藍圖、下載授權修正",
-    "清除純代管用不到的他業種殘留 schema"
+    "修正退租結算：不再把早已繳清、僅帳務中心未按「結算」的舊帳單誤列為積欠未繳",
+    "修正企業大廳繳費看板：本月尚未到繳款日時，不再把本月房租誤列入未繳月份"
   ],
   "mandatory": false,
-  "sha256": "597a79bb70bc364842bf32e78a8c3b771a72ee51fc4cea718894e1bec51a8e53"
+  "sha256": "ce5e32ac2af217b850242cf375df2c32fcd9d9a54d27a2ba85741f219b7df8d5"
 }
