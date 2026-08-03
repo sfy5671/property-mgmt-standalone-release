@@ -1,10 +1,10 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "修正退租結算：不再把早已繳清、僅帳務中心未按「結算」的舊帳單誤列為積欠未繳",
-    "修正企業大廳繳費看板：本月尚未到繳款日時，不再把本月房租誤列入未繳月份"
+    "修正企業大廳繳費看板：本月租金與前期欠款分開顯示，應繳金額正確含「本月應收＋前期欠款」（先前版本房客有欠款時會漏算本月租金）",
+    "點開明細可逐月檢視各欠款月＋本月＋合計"
   ],
   "mandatory": false,
-  "sha256": "ce5e32ac2af217b850242cf375df2c32fcd9d9a54d27a2ba85741f219b7df8d5"
+  "sha256": "f27ffe3f0c2363a8c3aff8461f33d95d5bf6cc1d970aa23aab48151a31c638f3"
 }
