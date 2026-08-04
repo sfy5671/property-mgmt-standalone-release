@@ -1,10 +1,9 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "修正企業大廳繳費看板：本月租金與前期欠款分開顯示，應繳金額正確含「本月應收＋前期欠款」（先前版本房客有欠款時會漏算本月租金）",
-    "點開明細可逐月檢視各欠款月＋本月＋合計"
+    "修正歷史退租結算單檢視頁：新增「列印」與「返回」按鈕，可直接列印退租結算單（先前版本此頁沒有列印鍵，只能靠瀏覽器選單列印）"
   ],
   "mandatory": false,
-  "sha256": "f27ffe3f0c2363a8c3aff8461f33d95d5bf6cc1d970aa23aab48151a31c638f3"
+  "sha256": "e3e52d809cd7f69eb181fcceb5d8415552822622a4b02fd2711c3d87e9cf47d4"
 }
