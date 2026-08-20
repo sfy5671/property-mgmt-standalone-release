@@ -1,13 +1,11 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "新增「屋主結算看板」：各棟每月就緒狀態一頁掌握，綠燈即可發報表",
-    "新增屋主月結算報表：品牌卡片＋可複製文字版，一鍵轉 LINE 給屋主",
-    "新增房客應繳報表：各房費用截圖／文字版，貼各棟 LINE 群組通知房客",
-    "帳單房號改用自然排序，修正 9、10 號與含樓層字母排序亂跳",
+    "新增每月流程進場提醒：登入後依日期提示「該結算屋主／抄表／發房客報表了」，一鍵直達結算看板",
+    "（上一版起）屋主結算看板＋屋主／房客報表＋帳單房號自然排序",
     "既有資料與授權不受影響，更新後照常使用"
   ],
   "mandatory": false,
-  "sha256": "6d7674f3de7c4e11dc8aa61b67b065f3e43323f203babd1e65dafbef74b6a2d5"
+  "sha256": "13504c7e2740c33aee9a95dc3e3338a90f5fd067518873754ffa32d0df8b17c4"
 }
