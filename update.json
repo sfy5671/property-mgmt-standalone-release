@@ -1,11 +1,11 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "更新使用說明：新增「區網多人版」加購的完整使用教學（如何啟用、其他電腦怎麼連、防火牆設定、常見限制）",
-    "修正「可以裝在第二台電腦嗎」FAQ 的過時答案，補上區網多人版選項",
+    "手機查詢雲設定頁新增「立即線上購買」連結，還沒開通的客戶可直接自助刷卡",
+    "付款成功後開通資訊（同步網址/Token/手機登入帳密）自動寄到 Email",
     "既有資料與授權不受影響，更新後照常使用"
   ],
   "mandatory": false,
-  "sha256": "58e23d17ce1a6774d5cc31d51c9c165d1f041adc5174281e208a369a84b482a3"
+  "sha256": "1b762718e66362152044c0c07e5261b647bb75ec0dddfff7bf682c64442d92c8"
 }
