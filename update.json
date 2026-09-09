@@ -1,11 +1,12 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "手機查詢雲設定頁新增「立即線上購買」連結，還沒開通的客戶可直接自助刷卡",
-    "付款成功後開通資訊（同步網址/Token/手機登入帳密）自動寄到 Email",
+    "代管費 1,000 元地板：租金基礎 × 費率不足 1,000 元且非空屋時，一律以 1,000 元計算",
+    "逾期繳款名單計算修正：首頁提示筆數與詳情頁不一致的問題已修復",
+    "「標記已收款」加強權限保護，僅限管理者可執行",
     "既有資料與授權不受影響，更新後照常使用"
   ],
   "mandatory": false,
-  "sha256": "1b762718e66362152044c0c07e5261b647bb75ec0dddfff7bf682c64442d92c8"
+  "sha256": "8edfa0244dcab462e483829ce44e5160e413d164f7f41cbdb4c4740eb393bd5b"
 }
