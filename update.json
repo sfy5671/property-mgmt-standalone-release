@@ -1,12 +1,12 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/latest/download/PropertyMgmtSetup.exe",
   "notes": [
-    "代管費 1,000 元地板：租金基礎 × 費率不足 1,000 元且非空屋時，一律以 1,000 元計算",
-    "逾期繳款名單計算修正：首頁提示筆數與詳情頁不一致的問題已修復",
-    "「標記已收款」加強權限保護，僅限管理者可執行",
+    "新增「帳號自訂細分權限系統」：老闆可在系統設定逐項勾選每個員工帳號能看什麼、能做什麼",
+    "涵蓋房屋/房客/合約/結算/報表等18大類、56項細分權限，取代原本粗略的角色分級",
+    "既有帳號權限自動比照原本角色換算，不會有人被鎖住原本做得到的事",
     "既有資料與授權不受影響，更新後照常使用"
   ],
   "mandatory": false,
-  "sha256": "8edfa0244dcab462e483829ce44e5160e413d164f7f41cbdb4c4740eb393bd5b"
+  "sha256": "7e37a112daa61a9f854fdd88e2f38d7719305c93b7b937adf7e495450de3b749"
 }
