@@ -1,12 +1,13 @@
 {
-  "version": "1.0.31",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.31/PropertyMgmtSetup.exe",
+  "version": "1.0.33",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.33/PropertyMgmtSetup.exe",
   "notes": [
-    "新增「委託代管房數」：屋主只交部分房間代管時，出租率不再被整棟總房數拉低",
-    "首頁三張提醒卡片固定顯示，沒有資料時顯示 0 筆",
-    "代管期限提醒補進已過期的契約（原本只提醒未來 30 天內到期）",
+    "新增「資料中心」：下載 Excel 範本貼上舊資料再上傳，批次匯入物件與房客，不必一間一間手動新增",
+    "範本欄位齊全（物件 45 欄、房客 36 欄），含屋主完整資料、費用規則、公共電表與分電表設定、房客電表起始度數與同住人",
+    "範本附「填寫說明」分頁；上傳後先預覽確認才寫入，中途出錯整批取消",
+    "房屋物件清單加分頁，每頁 10 筆；房客資料新增「車牌」欄位",
     "既有資料與授權不受影響，更新後照常使用"
   ],
   "mandatory": false,
-  "sha256": "28c00bd477a9059b4b9836fe4af4a91c7ba966a6626edf695291b8d2e249446b"
+  "sha256": "b10bad9ce092dd2fee8d5da1cd2107274df41b37515ed1bcc6fdefaa2b313073"
 }
