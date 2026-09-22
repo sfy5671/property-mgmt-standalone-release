@@ -1,6 +1,6 @@
 {
-  "version": "1.0.35",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.35/PropertyMgmtSetup.exe",
+  "version": "1.0.36",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.36/PropertyMgmtSetup.exe",
   "notes": [
     "範例資料變完整：按「先載入範例看看系統長什麼樣」之後，原本還是空白的幾個頁面現在都有內容",
     "行事曆：9 筆跨過去與未來的行程（帶看、抄電表、退租點交、催繳約談、續約洽談、消防檢查），首頁「近期行程」不再空白",
@@ -11,8 +11,9 @@
     "按「清除示範資料」一樣一次清乾淨，連範例檔案也會一起刪掉，你自己建立的資料完全不受影響。",
     "上傳檔「預覽」點下去打不開：書表中心的文件、房屋契約、房客合約與證件、修繕單據，點預覽會跳「找不到頁面」。已修好，現在可以直接在瀏覽器開啟。",
     "側邊欄「物件 / 房客管理」改成可展開的「新建資料」分組，底下分「房屋」「房客」，點下去直接跳到對應的新增表單。",
+    "內部修正：錯誤頁的回應狀態碼（畫面沒有變化）。",
     "既有資料與授權不受影響，更新後照常使用。"
   ],
   "mandatory": false,
-  "sha256": "93d505f6ca460631058c296774375b38b869a71847dc9d13d32cf31fef0f04d4"
+  "sha256": "9701db3886710dacdac3801c22896c26a6fad0f32227bb5e95c5708553c463bd"
 }
