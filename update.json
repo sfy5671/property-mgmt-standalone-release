@@ -1,5 +1,5 @@
 {
-  "version": "1.0.50",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.50/PropertyMgmtSetup.exe",
-  "notes": "【修正：部分繳款金額算錯】房客欠好幾個月時，記錄部分繳款後剩餘欠款會算錯，收到的錢超過本月應繳時，前面幾個月的欠款甚至會整筆消失、被標成已繳清。現在收到的錢一律先抵最舊的欠款，再抵本月；全部收清才標記已繳清，多收會提示溢收金額。租金催繳名單與繳費看板顯示的欠款一致。\n【新增】租金催繳名單也能直接記錄部分繳款；繳費看板的「收款」按鈕改名為「部分繳款」。\n【建議】升級後請檢查先前記過部分繳款的房客，若前期欠款被誤標為已繳，請在繳費看板按「取消」還原後重新記錄。\n【其他】空白欄位不再顯示成「None」。升級後既有資料與設定不受影響。"
+  "version": "1.0.51",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.51/PropertyMgmtSetup.exe",
+  "notes": "【新增】新增房客時就能直接填「車牌」「直接匯屋主」「押金保管方」，以前只能存檔後再進編輯房客補。\n【新增】上傳照片自動壓縮：物件照、證件照、電表照等手機照片，長邊縮到 1920、自動轉正並去除拍攝位置等資訊，一張通常只剩原本一到兩成，硬碟不會被照片塞滿。PDF、GIF、HEIC 保留原檔不動。\n【其他】升級後既有資料與設定不受影響。"
 }
