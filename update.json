@@ -1,5 +1,5 @@
 {
-  "version": "1.0.51",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.51/PropertyMgmtSetup.exe",
-  "notes": "【新增】新增房客時就能直接填「車牌」「直接匯屋主」「押金保管方」，以前只能存檔後再進編輯房客補。\n【新增】上傳照片自動壓縮：物件照、證件照、電表照等手機照片，長邊縮到 1920、自動轉正並去除拍攝位置等資訊，一張通常只剩原本一到兩成，硬碟不會被照片塞滿。PDF、GIF、HEIC 保留原檔不動。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.52",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.52/PropertyMgmtSetup.exe",
+  "notes": "【新增】新增／編輯房客多了「收押金日期」「訂金」「收訂金日期」，簽約前先收的訂金和入住後的押金可以分開記錄；Excel 匯入範本裡的這三欄也會一併匯入。\n【新增】新增房客時就能直接填「車牌」「直接匯屋主」「押金保管方」，不必存檔後再進編輯補。\n【新增】上傳照片自動壓縮：長邊縮到 1920、自動轉正並去除拍攝位置等資訊，硬碟不會被照片塞滿。PDF、GIF、HEIC 保留原檔不動。\n【其他】升級後既有資料與設定不受影響。"
 }
