@@ -1,5 +1,5 @@
 {
-  "version": "1.0.56",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.56/PropertyMgmtSetup.exe",
-  "notes": "【修正】客戶管理的「刪除客戶」「刪除付款」「刪除聯繫紀錄」「試用轉正式」改成按鈕送出，防止被惡意連結誘導誤刪，這幾個動作也會記進操作紀錄。按鈕位置與用法不變。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.57",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.57/PropertyMgmtSetup.exe",
+  "notes": "【改善】帳務中心「本月電價設定」改用「選擇物件」下拉選單，一次只顯示一棟，物件很多時版面不再拉得很長。選單上 ✅ 表示已有電價、⬜ 表示還沒填；也可選「全部物件一起顯示」。切換物件不會遺失已填的數字，全部填完按一次儲存即可。\n【其他】升級後既有資料與設定不受影響。"
 }
