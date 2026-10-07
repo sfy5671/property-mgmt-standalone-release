@@ -1,5 +1,5 @@
 {
-  "version": "1.0.59",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.59/PropertyMgmtSetup.exe",
-  "notes": "【改善】銀行帳號改用下拉選單：新增／修改房屋時先選「代碼＋銀行名」（例如 812 台新銀行、700 中華郵政）再填帳號，帳號只收數字，空白與破折號自動去掉；農會、漁會等可選「其他」手動輸入。\n【修正】屋主匯款清單不再出現「帳號無法解析」：舊資料打開「修改房屋」會自動選好原銀行，按一次儲存即改成正確格式；舊選單把郵局代碼誤植成 119（正確為 700）也一併修正。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.60",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.60/PropertyMgmtSetup.exe",
+  "notes": "【修正】Excel 匯入物件時，「屋主銀行代碼」填 700 或 4 都會自動換成「700 中華郵政」「004 臺灣銀行」再和帳號合併，匯完可直接用在屋主匯款清單（原本會顯示帳號無法解析）。\n【延續】v1.0.59 銀行帳號改用下拉選單（代碼＋銀行名）＋帳號。\n【其他】升級後既有資料與設定不受影響。"
 }
