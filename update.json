@@ -1,5 +1,5 @@
 {
-  "version": "1.0.55",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.55/PropertyMgmtSetup.exe",
-  "notes": "【新增】操作紀錄：老闆帳號在「資料中心 → 查看操作紀錄」可以看到每個帳號什麼時間登入登出、新增修改刪除了哪些資料、看過或匯出了哪些房客與屋主資料；登入失敗也會記下來，紀錄保留一年。只記做了什麼、對哪一筆，不記密碼或身分證字號。\n【其他】安裝檔瘦身，拿掉打包時誤收進來、系統用不到的元件。升級後既有資料與設定不受影響。"
+  "version": "1.0.56",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.56/PropertyMgmtSetup.exe",
+  "notes": "【修正】客戶管理的「刪除客戶」「刪除付款」「刪除聯繫紀錄」「試用轉正式」改成按鈕送出，防止被惡意連結誘導誤刪，這幾個動作也會記進操作紀錄。按鈕位置與用法不變。\n【其他】升級後既有資料與設定不受影響。"
 }
