@@ -1,5 +1,5 @@
 {
-  "version": "1.0.57",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.57/PropertyMgmtSetup.exe",
-  "notes": "【改善】帳務中心「本月電價設定」改用「選擇物件」下拉選單，一次只顯示一棟，物件很多時版面不再拉得很長。選單上 ✅ 表示已有電價、⬜ 表示還沒填；也可選「全部物件一起顯示」。切換物件不會遺失已填的數字，全部填完按一次儲存即可。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.58",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.58/PropertyMgmtSetup.exe",
+  "notes": "【新功能】台電電錶不限組數：新增／修改房屋的電錶改成清單，按「＋ 新增電錶」加一組、按「×」刪除，電錶多時在框內捲動。原本的 1～6 組電錶升級後自動轉入，不用重設。\n【改善】電價可以輸入到小數第 6 位；整棟結算第 5、6 組電錶的房間也會正確帶入電錶電價。\n【其他】升級後既有資料與設定不受影響。"
 }
