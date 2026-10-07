@@ -1,5 +1,5 @@
 {
-  "version": "1.0.54",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.54/PropertyMgmtSetup.exe",
-  "notes": "【新增】全棟統一電價：帳務中心「本月電價設定」每一棟多了「全棟統一電價」勾選框，整棟每間房電價相同時只要填一格，儲存後整棟電錶與每個房間都用這個電價，單筆結算、整棟結算、之後新進房客都會自動帶入；取消勾選就恢復各別設定。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.55",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.55/PropertyMgmtSetup.exe",
+  "notes": "【新增】操作紀錄：老闆帳號在「資料中心 → 查看操作紀錄」可以看到每個帳號什麼時間登入登出、新增修改刪除了哪些資料、看過或匯出了哪些房客與屋主資料；登入失敗也會記下來，紀錄保留一年。只記做了什麼、對哪一筆，不記密碼或身分證字號。\n【其他】安裝檔瘦身，拿掉打包時誤收進來、系統用不到的元件。升級後既有資料與設定不受影響。"
 }
