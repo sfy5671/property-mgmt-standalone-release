@@ -1,5 +1,6 @@
 {
-  "version": "1.0.60",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.60/PropertyMgmtSetup.exe",
-  "notes": "【修正】Excel 匯入物件時，「屋主銀行代碼」填 700 或 4 都會自動換成「700 中華郵政」「004 臺灣銀行」再和帳號合併，匯完可直接用在屋主匯款清單（原本會顯示帳號無法解析）。\n【延續】v1.0.59 銀行帳號改用下拉選單（代碼＋銀行名）＋帳號。\n【其他】升級後既有資料與設定不受影響。"
+  "version": "1.0.61",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.61/PropertyMgmtSetup.exe",
+  "notes": "【改善】退租結算單版面更緊湊：基本資料、鑰匙清點、多住天數合併一區，其他扣除與結算總覽改為一行並列兩筆。\n【改善】列印退租結算單會壓成一張 A4；照片或扣除項目很多時自動等比例縮小到一頁。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "3f3171491516af55c0c20f21209e15904fe96bbd9468cdd23bbe7cf91b1e1a73"
 }
