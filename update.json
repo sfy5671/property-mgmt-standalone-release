@@ -1,6 +1,6 @@
 {
-  "version": "1.0.62",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.62/PropertyMgmtSetup.exe",
-  "notes": "【改善】「退租房客歷史」按 🔄 恢復入住前，會先列出會一併刪除的未請款退租結算單（退租日、應退金額），避免誤刪；只是要改資料請按 ✏️ 編輯。\n【延續】v1.0.61 退租結算單版面緊湊化，列印成一張 A4。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "56056eda30a081d325bcec067f7bf9820d732ca251c188b218901751cc54904c"
+  "version": "1.0.63",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.63/PropertyMgmtSetup.exe",
+  "notes": "【新功能】「月度總帳」新增「🔁 每月固定收支」：房租、薪資、電話網路、記帳費等每月都有的項目設定一次，之後每個月打開總帳就自動記進去（標「固定」）；金額不同可直接改那一筆，那個月沒有就刪掉，刪掉的不會再冒出來。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "63107a1b202940f6d67f2017c43b663d1f3a7b76c81325dd5930e989ee0dc38b"
 }
