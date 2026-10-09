@@ -1,6 +1,6 @@
 {
-  "version": "1.0.63",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.63/PropertyMgmtSetup.exe",
-  "notes": "【新功能】「月度總帳」新增「🔁 每月固定收支」：房租、薪資、電話網路、記帳費等每月都有的項目設定一次，之後每個月打開總帳就自動記進去（標「固定」）；金額不同可直接改那一筆，那個月沒有就刪掉，刪掉的不會再冒出來。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "63107a1b202940f6d67f2017c43b663d1f3a7b76c81325dd5930e989ee0dc38b"
+  "version": "1.0.64",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.64/PropertyMgmtSetup.exe",
+  "notes": "【新功能】「每月固定收支」可勾選「只在這些月份產生」：一年只付幾次的項目（例如停車場租金 3、6、9 月、公會年費）設一次就好；都不勾就是每個月。\n【延續】v1.0.63 月度總帳新增每月固定收支。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "5f470608d8d6222d63b067d3d67c88ad9b4f0656809f1b8f60892ee63183e694"
 }
