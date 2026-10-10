@@ -1,6 +1,6 @@
 {
-  "version": "1.0.64",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.64/PropertyMgmtSetup.exe",
-  "notes": "【新功能】「每月固定收支」可勾選「只在這些月份產生」：一年只付幾次的項目（例如停車場租金 3、6、9 月、公會年費）設一次就好；都不勾就是每個月。\n【延續】v1.0.63 月度總帳新增每月固定收支。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "5f470608d8d6222d63b067d3d67c88ad9b4f0656809f1b8f60892ee63183e694"
+  "version": "1.0.65",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.65/PropertyMgmtSetup.exe",
+  "notes": "【新功能】所有列表超過 10 筆自動分頁，每頁 10 筆：房客、帳單、修繕、屋主、催繳、客戶管理等列表，表格下方出現「上一頁／頁碼／下一頁」與「顯示第 x–y 筆，共 N 筆」；上方統計數字仍以全部資料計算。\n【操作】表頭「全選」只勾目前這一頁；重新整理後停在原頁；搜尋篩選後只對結果分頁；列印時印出全部筆數。\n【不分頁】列印用帳單／結算單／成績單／薪資單、12 個月月報、每棟房間表、批次開帳單抄表輸入表、操作紀錄；房屋物件清單維持每頁 7 筆。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "9e96451386d78de4813266b60f7cf7e157b8b644f10dfba06981f752f85b9b70"
 }
