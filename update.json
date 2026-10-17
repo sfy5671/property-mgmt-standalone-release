@@ -1,6 +1,6 @@
 {
-  "version": "1.0.68",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.68/PropertyMgmtSetup.exe",
-  "notes": "【新功能】台電總表扣分表：兩層共用一顆台電錶、只有一層裝分表時（例：二、三樓共用二樓台電錶，三樓有分表），在「修改房屋 → 台電電錶設定」填「總表房號」，整棟結算會自動算出讀總表那一層的電費＝（總表用電 − 分表用電）× 單價。分表沒抄或總表比分表少時整批擋下，不會算錯。\n【調整】所有設定密碼的地方一律至少 8 個字元（修改密碼、首次開通、帳密救援、設定頁新增／修改帳號）。\n【修正】手機版版面導覽說明卡打開時，最底部的區塊也能捲上來，不再被擋住。\n【上一版 1.0.67】存檔後停留原處、首頁版面導覽、AI 金鑰動畫教學、所有權人結算報表不分頁。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "2160fbd51934c89d1a763c543bfaf701d0b0e939fe05cd2ec8facb21ef500cfc"
+  "version": "1.0.69",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.69/PropertyMgmtSetup.exe",
+  "notes": "【新功能】繳費看板最右側新增「備註」欄：平常以文字顯示，按「編輯」才能修改，按「存檔」（或 Enter）儲存，不需要時按「刪除」。備註每個月分開記，房客與車位都能寫，例如「說好 15 號匯」「押金另收」。\n【上一版 1.0.68】台電總表扣分表、所有密碼至少 8 個字元、手機版版面導覽修正。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "04387829ef4704e14470eb3436c4a672fef671c1b3d1f8ad5cafdd00b42d8985"
 }
