@@ -1,6 +1,6 @@
 {
-  "version": "1.0.69",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.69/PropertyMgmtSetup.exe",
-  "notes": "【新功能】繳費看板最右側新增「備註」欄：平常以文字顯示，按「編輯」才能修改，按「存檔」（或 Enter）儲存，不需要時按「刪除」。備註每個月分開記，房客與車位都能寫，例如「說好 15 號匯」「押金另收」。\n【上一版 1.0.68】台電總表扣分表、所有密碼至少 8 個字元、手機版版面導覽修正。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "04387829ef4704e14470eb3436c4a672fef671c1b3d1f8ad5cafdd00b42d8985"
+  "version": "1.0.70",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.70/PropertyMgmtSetup.exe",
+  "notes": "【更新】程式圖示與安裝畫面改用租管Pro 產品圖示。\n【上一版 1.0.69】繳費看板最右側新增「備註」欄，每個月分開記，房客與車位都能寫。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "0279170047cc57182e7e57bbadfc1a38929c6f3a8a914c9c8c82119ee2164197"
 }
