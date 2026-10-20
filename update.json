@@ -1,6 +1,6 @@
 {
-  "version": "1.0.70",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.70/PropertyMgmtSetup.exe",
-  "notes": "【更新】程式圖示與安裝畫面改用租管Pro 產品圖示。\n【上一版 1.0.69】繳費看板最右側新增「備註」欄，每個月分開記，房客與車位都能寫。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "0279170047cc57182e7e57bbadfc1a38929c6f3a8a914c9c8c82119ee2164197"
+  "version": "1.0.71",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.71/PropertyMgmtSetup.exe",
+  "notes": "【更新】屋主結算解鎖後不再重複扣款；同月入住又退租的房客，押金會列給屋主；銀行對帳金額不足一個月不再整月標記繳清（請到繳費看板登記部分繳款）；補繳舊車位費，已繳月份不會倒退。\n【上一版 1.0.70】程式圖示與安裝畫面改用租管Pro 產品圖示。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "2d6e1d4266140aaad057b5f07ce319e3a4c264b11c4a5a55842b29ec0006a55b"
 }
