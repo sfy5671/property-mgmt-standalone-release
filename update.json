@@ -1,6 +1,6 @@
 {
-  "version": "1.0.74",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.74/PropertyMgmtSetup.exe",
-  "notes": "【修正】照片房號選單、空房搜尋不再列出房號改過名的舊房號；只委託部分房間的物件，沒委託的房間不會被當成空房。房間資料頁填過樓層、備註或租金的房間照常列出。\n【上一版 1.0.73】整棟結算選「依住的天數」分攤公電時，舊房號不會再灌大分攤房數。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "8385bf8be12d55a854c5b88e8efc96dd2adf039dc492fb01365f3fc7889d2bf9"
+  "version": "1.0.75",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.75/PropertyMgmtSetup.exe",
+  "notes": "【新增】退租結算單多一欄「帳單沒收到、從押金扣抵」：已開帳單但房客沒繳的款項（例：上期水電）填這裡，屋主結算會自動多一列「押金扣抵未繳帳款」扣回，避免屋主同一筆錢拿兩次；系統自動抓的積欠帳單也一併扣回。\n【上一版 1.0.74】照片房號選單、空房搜尋不再列出房號改過名的舊房號。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "4ff0571b119d294b8267b9898abe1dac0cbc81e0dcfa6e9d6935060b6fe31d9c"
 }
