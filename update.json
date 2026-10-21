@@ -1,6 +1,6 @@
 {
-  "version": "1.0.76",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.76/PropertyMgmtSetup.exe",
-  "notes": "【修正】租金直接匯屋主的房客退租當月，屋主結算照樣列「扣除（直接匯屋主）」，屋主不會同一筆錢拿兩次。\n【修正】屋主結算已有明細時直接按儲存，還沒帶進來的退租應退款、新租押金不會再被漏掉；按「重新帶入系統數據」就會補上。\n【上一版 1.0.75】退租結算單新增「帳單沒收到、從押金扣抵」，屋主結算自動扣回。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "b80e61e564a0852f0c082335c26a5cdcb5c161b77c5a34401da0df85e1b4d558"
+  "version": "1.0.77",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.77/PropertyMgmtSetup.exe",
+  "notes": "【新功能】收租結算 → 帳務異常檢查：拿每間房自己過去的帳單比對，挑出跟以往差很多的數字（電價不合理、度數倒退、用電暴增、電費算錯、水費或總額暴增等）提醒你再核對；只是提醒，不會改任何帳。\n【新功能】首頁多一張「帳務異常」提醒卡，結算作業頁最上方也會出現警示條。\n【改善】電價欄點一下就整格全選，打新數字直接取代，避免變成 194.07 這種錯；存了不合理的單價會跳「是不是漏打小數點」提醒。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "19a01a706c2a88bea4784ad8b5da4c2f5fe33bf2bfe638030e5170e9d7475ddc"
 }
