@@ -1,6 +1,6 @@
 {
-  "version": "1.0.77",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.77/PropertyMgmtSetup.exe",
-  "notes": "【新功能】收租結算 → 帳務異常檢查：拿每間房自己過去的帳單比對，挑出跟以往差很多的數字（電價不合理、度數倒退、用電暴增、電費算錯、水費或總額暴增等）提醒你再核對；只是提醒，不會改任何帳。\n【新功能】首頁多一張「帳務異常」提醒卡，結算作業頁最上方也會出現警示條。\n【改善】電價欄點一下就整格全選，打新數字直接取代，避免變成 194.07 這種錯；存了不合理的單價會跳「是不是漏打小數點」提醒。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "19a01a706c2a88bea4784ad8b5da4c2f5fe33bf2bfe638030e5170e9d7475ddc"
+  "version": "1.0.78",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.78/PropertyMgmtSetup.exe",
+  "notes": "【改善】所有權人結算報表按「已匯款」後，畫面停在原處，不再跳回頁面最上方；各頁存檔後回到原位置改為直接定位，不再從頂端滑下來。\n【其他】登入頁補上分頁圖示。升級後既有資料與設定不受影響。",
+  "sha256": "ce51337ea65a48da32ff47a6267627959acf77ef0a23b1ba3a8f6722bddbb481"
 }
