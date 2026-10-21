@@ -1,6 +1,6 @@
 {
-  "version": "1.0.73",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.73/PropertyMgmtSetup.exe",
-  "notes": "【修正】整棟結算選「依住的天數」分攤公電時，房號改過名的舊房號不會再被當成空房，分攤房數不會被灌大；空房清單依物件的委託房數（沒填就看總房數）補到滿。\n【上一版 1.0.72】整棟結算改步驟式、台電總表算公電、公電分攤每棟可選、空房抄表、退租預收電費多退少補、車位租金。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "fa78b8d4c42c12d584eed97eb52da30812ad53bea0f7a616ab30f1561731972d"
+  "version": "1.0.74",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.74/PropertyMgmtSetup.exe",
+  "notes": "【修正】照片房號選單、空房搜尋不再列出房號改過名的舊房號；只委託部分房間的物件，沒委託的房間不會被當成空房。房間資料頁填過樓層、備註或租金的房間照常列出。\n【上一版 1.0.73】整棟結算選「依住的天數」分攤公電時，舊房號不會再灌大分攤房數。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "8385bf8be12d55a854c5b88e8efc96dd2adf039dc492fb01365f3fc7889d2bf9"
 }
