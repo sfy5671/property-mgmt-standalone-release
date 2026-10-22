@@ -1,6 +1,6 @@
 {
-  "version": "1.0.79",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.79/PropertyMgmtSetup.exe",
-  "notes": "【新功能】左側選單「其他」新增「資料中心（匯入舊資料）」，可用 Excel 範本批次匯入物件、房客（試用期間不開放，正式授權後即可使用）。\n【資安】忘記帳密要救援時，必須輸入這台電腦當初的開通碼；連續輸錯 5 次會暫停 15 分鐘。請把開通碼收好。\n【資安】已開通的電腦會自動刪除密碼還是預設值的 test 帳號（改過密碼的會保留）。\n【新功能】系統設定可暫停／恢復員工登入；被停用的帳號會立即登出。改密碼後，其他電腦上的舊登入會立即失效。\n【改善】安裝檔不再附任何預設資料；修正 LINE 內建瀏覽器登入登出異常。升級後既有資料與設定不受影響。",
-  "sha256": "a734f5f5470cd95ce1ce04ea10707171669dc01beb3dc93e74fdc881ffc503e4"
+  "version": "1.0.80",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.80/PropertyMgmtSetup.exe",
+  "notes": "【改善】左側選單「其他」的「資料中心（匯入舊資料）」改名為「資料處理中心」，進去後上方有分頁，可直接切換匯入舊資料、操作紀錄、電表照片庫。\n【改善】試用期間也看得到資料處理中心（操作紀錄、電表照片庫可照常使用）；批次匯入舊資料仍限正式授權。升級後既有資料與設定不受影響。",
+  "sha256": "8f41276e52d4f719c7e35272078a7e5a793b496369b465b90b3f931d73fc4fe0"
 }
