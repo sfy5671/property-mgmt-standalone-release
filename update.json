@@ -1,6 +1,6 @@
 {
-  "version": "1.0.78",
-  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.78/PropertyMgmtSetup.exe",
-  "notes": "【改善】所有權人結算報表按「已匯款」後，畫面停在原處，不再跳回頁面最上方；各頁存檔後回到原位置改為直接定位，不再從頂端滑下來。\n【其他】登入頁補上分頁圖示。升級後既有資料與設定不受影響。",
-  "sha256": "ce51337ea65a48da32ff47a6267627959acf77ef0a23b1ba3a8f6722bddbb481"
+  "version": "1.0.79",
+  "download_url": "https://github.com/sfy5671/property-mgmt-standalone-release/releases/download/v1.0.79/PropertyMgmtSetup.exe",
+  "notes": "【新功能】左側選單「其他」新增「資料中心（匯入舊資料）」，可用 Excel 範本批次匯入物件、房客（試用期間不開放，正式授權後即可使用）。\n【資安】忘記帳密要救援時，必須輸入這台電腦當初的開通碼；連續輸錯 5 次會暫停 15 分鐘。請把開通碼收好。\n【資安】已開通的電腦會自動刪除密碼還是預設值的 test 帳號（改過密碼的會保留）。\n【新功能】系統設定可暫停／恢復員工登入；被停用的帳號會立即登出。改密碼後，其他電腦上的舊登入會立即失效。\n【改善】安裝檔不再附任何預設資料；修正 LINE 內建瀏覽器登入登出異常。升級後既有資料與設定不受影響。",
+  "sha256": "a734f5f5470cd95ce1ce04ea10707171669dc01beb3dc93e74fdc881ffc503e4"
 }
